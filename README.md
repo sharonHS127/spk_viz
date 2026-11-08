@@ -2,6 +2,10 @@
 
 The channel layout is automatically determined based on the number of channels:
 
+<img width="1280" height="723" alt="demoStereo_20261108" src="https://github.com/user-attachments/assets/9ae15d31-086b-4bd7-b969-d5ec5ecb447b" />
+
+<img width="1284" height="719" alt="demo7_1_20261108" src="https://github.com/user-attachments/assets/cc216507-ff3c-4283-9e51-0e916ad9f8a3" />
+
 - `1` = Mono
 - `2` = Stereo
 - `6` = 5.1 Surround
